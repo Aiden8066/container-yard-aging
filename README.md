@@ -104,13 +104,6 @@ Container yard aging/
 - **데이터베이스 경로**: 코드 상단의 `db_file` 및 `contact_db_path` 변수에서 설정
 - **네트워크 경로**: 현재 `\\10.193.232.18\Java\우현 테스트\` 경로로 설정됨
 
-## 🤝 기여하기
-
-1. 이 저장소를 Fork합니다
-2. 기능 브랜치를 생성합니다 (`git checkout -b feature/AmazingFeature`)
-3. 변경사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`)
-4. 브랜치에 푸시합니다 (`git push origin feature/AmazingFeature`)
-5. Pull Request를 생성합니다
 
 ## 📄 라이선스
 
